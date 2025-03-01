@@ -4,7 +4,7 @@ import pymysql
 import logging
 import json
 
-# 配置日志（取消时间记录）
+# 配置日志
 logging.basicConfig(level=logging.INFO, format="%(levelname)s - %(message)s")
 
 # 加载数据库配置
