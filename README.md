@@ -1,4 +1,4 @@
-# NovelInfo Crawler
+# 塔读文学网书库爬虫系统
 
 一个用于抓取小说信息并存储到MySQL数据库的Python爬虫项目。
 
