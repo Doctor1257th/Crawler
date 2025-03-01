@@ -1,4 +1,4 @@
-# NovelInfo Scraper
+# NovelInfo Crawler
 
 一个用于抓取小说信息并存储到MySQL数据库的Python爬虫项目。
 
@@ -15,8 +15,8 @@
 ### 1. 克隆项目
 通过以下命令克隆项目到本地：
 ```bash
-git clone https://github.com/Doctor1257th/reptile.git
-cd reptile
+git clone https://github.com/Doctor1257th/Crawler.git
+cd Crawler
 ```
 
 ### 2. 安装依赖
@@ -72,7 +72,7 @@ python info.py
 
 ## 项目结构
 ```
-reptile/
+Crawler/
 ├── info.py                # 主程序
 ├── README.md              # 项目说明
 ├── config.json            # 数据库配置文件（需手动创建）
